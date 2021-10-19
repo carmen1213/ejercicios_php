@@ -1,0 +1,64 @@
+html{
+
+    background-image: linear-gradient(to right, blueviolet,mediumorchid,mediumseagreen,plum,violet , lightpink);
+
+}
+#titulo{
+    font-size: 70px;
+    text-align: center;
+    font-family: Papyrus;
+}
+body{
+    text-align: center;
+}
+#introduzca{
+    font-size: 25px;
+    font-family: "Lucida Handwriting";
+}
+#convertir{
+    font-size: 25px;
+    font-family: "Lucida Handwriting";
+}
+#euros{
+    height: 50px;
+    width: 25%;
+    text-align: center;
+    font-size: 20px;
+}
+#conversion{
+    height: 40px;
+    width: 20%;
+    text-align: center;
+    font-size: 20px;
+}
+#boton{
+    height: 30px;
+    width: 12%;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    background-color: navy;
+}
+#titulo_calculo{
+    font-size: 70px;
+    text-align: center;
+    font-family: Papyrus;
+}
+.resultado{
+    font-size: 25px;
+    font-family: "Lucida Handwriting";
+}
+.numeroresul{
+    font-size: 50px;
+    font-family: "Copperplate, Papyrus, fantasy";
+    color: green;
+
+}
+#img{
+    background-image: url("imagen.jfif");
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin-right: 200px;
+    background-attachment: scroll;
+
+}

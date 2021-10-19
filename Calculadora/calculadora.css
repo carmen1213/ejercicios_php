@@ -1,0 +1,80 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+   
+
+}
+
+
+
+
+/*#output {
+    text-align: right;
+    height: 60px;
+    margin: 10px 20px;
+    font-size: 30px;
+}
+*/
+#keyboard {
+    height: 400px;
+
+}
+
+.operator, .number, .empty {
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    float: left;
+    border-radius: 50%;
+    border-width: 0;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.number, .empty {
+    background-color: #c4e5fa;
+}
+
+.number, .operator {
+    cursor: pointer;
+}
+
+.operator:active, .number:active {
+    font-size: 13px;
+}
+
+.operator:focus, .number:focus, .empty:focus {
+    outline: 0;
+}
+
+#division{
+    font-size: 20px;
+    background-color: #20b2aa;
+}
+
+#multiplica {
+    font-size: 20px;
+    background-color: #66ec18;
+}
+
+#resta{
+    font-size: 20px;
+    background-color: #f08080;
+}
+
+#suma {
+    font-size: 20px;
+    background-color: #f1bc0e;
+}
+
+#igual {
+    font-size: 20px;
+    background-color: #9477af;
+}
+#text{
+    height: 80px;
+    width: 40%;
+    text-align: center;
+    font-size: 20px;
+}
