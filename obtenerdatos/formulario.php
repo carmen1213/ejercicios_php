@@ -27,7 +27,7 @@
     <li>Codigo del Vendedor:
     <input type="text" name="Codigovendedor"><br><br></li>
     <li>Monto total de la factura:
-    <input type="number" name="monto"><br><br></li> <br>
+    <input type="text" name="monto"><br><br></li> <br>
     <input type="submit" name="submit" value="Enviar" id="botonenvi">
     <br><br>
 
