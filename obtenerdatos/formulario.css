@@ -1,0 +1,23 @@
+
+body{
+    text-align: center;
+
+    background: url(fondos-de-pantalla-para-paginas-web-colores-claros-768x482.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+
+}
+#titulo{
+    font-family: "Lucida Handwriting";
+    font-size: 100px;
+    background:linear-gradient(to right,#1d00e2, #171898, #193f83, #55a7d3, #fffd00,#ffaf0d, #ffbf0c, #ff5e0b,#e2063f) ;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+div{
+    text-align: center;
+
+}
