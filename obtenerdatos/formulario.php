@@ -11,9 +11,6 @@
 <body background="url">
 
 <h2 id="titulo">Formulario:</h2>
-<div>
-
-
 <form action="form.php" METHOD="post">
    <li> Nombre:
     <input type="text" name="nombre" maxlength="50"><br><br> </li>
@@ -30,14 +27,11 @@
     <li>Codigo del Vendedor:
     <input type="text" name="Codigovendedor"><br><br></li>
     <li>Monto total de la factura:
-    <input type="number" name="monto"><br><br></li>
-
-    <input type="submit" name="submit" value="Enviar">
+    <input type="number" name="monto"><br><br></li> <br>
+    <input type="submit" name="submit" value="Enviar" id="botonenvi">
+    <br><br>
 
 </form>
 
-</div>
-
-<script src="formulario.js"></script>
 </body>
 </html>
