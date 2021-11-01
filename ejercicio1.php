@@ -11,7 +11,7 @@ echo "Parte de PHP<br>";
 
 for($i=0;$i<10;$i++)
 {
-echo "Linea ".$i."<br>";
+echo "Linea ".$i."<bre>";
 }
 ?>
 </body>

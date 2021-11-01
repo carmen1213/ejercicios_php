@@ -1,0 +1,39 @@
+body{
+
+    background: url(3-wooden-backgrounds-1549495954.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 150vh;
+
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: Papyrus;
+    color: #171898;
+}
+td {
+    color: white;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 0 20px;
+    text-align: justify;
+    vertical-align: top;
+    width: 50%;
+}
+
+p{
+    font-size: 25px;
+    font-family: "Lucida Handwriting";
+    color: chartreuse;
+
+}
+#precios{
+    font-size: 25px;
+}
+#direccion{
+    height: 25px;
+    width: 80%;
+}
+

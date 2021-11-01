@@ -1,0 +1,19 @@
+table{
+    width: 50%;
+    height: 300px;
+    text-align: center;
+    display: table;
+}
+
+#tabla1{
+    background-color:aquamarine;
+}
+#tabla2{
+    background-color: #80d6f0;
+}
+#titulo{
+    color: darkslateblue;
+    text-align: center;
+    font-family: Papyrus;
+    font-size: 50px;
+}
