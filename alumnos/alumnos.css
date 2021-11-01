@@ -1,0 +1,36 @@
+html{
+    background-image: linear-gradient(to right, blueviolet,mediumorchid,mediumseagreen,plum,violet , lightpink);
+}
+
+body{
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    font-family: "Lucida Handwriting";
+}
+
+
+#Titulo1{
+    color: darkslateblue;
+    text-align: center;
+    font-family: Papyrus;
+    font-size: 50px;
+}
+#Titulo2{
+    color: darkslateblue;
+    text-align: center;
+    font-family: Papyrus;
+    font-size: 50px;
+}
+input{
+    height: 30px;
+    width: 12%;
+    text-align: center;
+    font-size: 18px;
+}
+#promedio2{
+    font-size: 24px;
+    font-family: "Lucida Handwriting";
+}
