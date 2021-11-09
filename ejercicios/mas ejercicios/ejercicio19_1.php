@@ -7,7 +7,7 @@
 </head>
 <style>
     html {
-        background: url("tartan.png"), url("fuego-1f525.svg") right repeat-y;
+        background: url("ejercicios/mas ejercicios/tartan.png"), url("ejercicios/mas ejercicios/fuego-1f525.svg") right repeat-y;
     }
 
 </style>
@@ -16,7 +16,7 @@
 <br>
 <br>
 <br>
-<img src="conversion_1.png">
+<img src="../conversion_1.png">
 <br>
 <br>
 <br>
